@@ -6,3 +6,13 @@ html {
 p{
   font-size: 150%;
 }
+
+
+.bg-light {
+    background-color: #fff !important;
+}
+
+
+.homeStoriesBackground{
+  background: #FEEFCE;
+}
