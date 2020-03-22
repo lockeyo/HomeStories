@@ -16,3 +16,8 @@ p{
 .homeStoriesBackground{
   background: #FEEFCE;
 }
+
+
+.active:hover{
+  text-decoration: underline;
+}
